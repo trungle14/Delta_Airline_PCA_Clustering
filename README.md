@@ -7,4 +7,4 @@ This GitHub repository hosts a comprehensive analysis project focusing on Princi
 ## Dependencies
 Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
-![image](https://github.com/Yufei-Terry/Delta-Fleet-Analysis/assets/146860931/98d3b719-1574-4411-98c6-a55cb6ab0e67)
+![delta-plane-exterior-KNOWDELTA0621-39eb72ab62704acf9167adb2c08e62e9](https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/0e801f2f-f054-4bf1-818a-216c58c10374)
