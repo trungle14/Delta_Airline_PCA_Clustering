@@ -8,3 +8,10 @@ This GitHub repository hosts a comprehensive analysis project focusing on Princi
 Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
 ![delta-plane-exterior-KNOWDELTA0621-39eb72ab62704acf9167adb2c08e62e9](https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/0e801f2f-f054-4bf1-818a-216c58c10374)
+
+
+
+
+### Delta Airlines' website have data on all of their aircraft in a certain site section. In hands-on project, we will investigate the different aircraft in Delta’s fleet. Which planes are similar? Which are dissimilar?
+
+
