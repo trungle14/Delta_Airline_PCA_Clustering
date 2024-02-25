@@ -26,3 +26,4 @@ Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
 
 
+<img width="389" alt="Screenshot 2024-02-24 at 23 55 44" src="https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/215cfe59-c42a-4c12-b4b9-a745d8895449">
