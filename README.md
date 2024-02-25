@@ -20,10 +20,9 @@ Python, Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 ![Delta-Airlines-Aircraft-Fleet-Sheet](https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/9a7b1c9c-e6f9-4fd3-812a-9982fcc6e075)
 
 
-<img width="325" alt="Screenshot 2024-02-24 at 23 35 24" src="https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/c96adb2d-c9bf-4fee-bedf-70cb85089f5a">
-
+![image](https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/d8fbfdf1-005e-4bc3-8cdf-9b30d5d31618)
 
 <img width="454" alt="Screenshot 2024-02-24 at 23 35 41" src="https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/60bf5bf9-4cf8-4761-9e05-5546b3a3f793">
 
 
-![image](https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/d8fbfdf1-005e-4bc3-8cdf-9b30d5d31618)
+
