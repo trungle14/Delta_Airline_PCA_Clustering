@@ -20,6 +20,8 @@ So, now that we’ve simplified the complex data set into a lower dimensional sp
 ![image](https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/d8fbfdf1-005e-4bc3-8cdf-9b30d5d31618)
 
 
+### Cumulative sum of explained variance and the number of components after analyzing with PCA
+
 
 <img width="389" alt="Screenshot 2024-02-24 at 23 55 44" src="https://github.com/trungle14/Delta_Airline_PCA_Clustering/assets/143222481/215cfe59-c42a-4c12-b4b9-a745d8895449">
 
